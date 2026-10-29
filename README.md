@@ -1,4 +1,4 @@
-# Hide Sensitive Information
+ # Hide Sensitive Information
 
 A browser extension for Chrome and Firefox that automatically detects and masks sensitive information like passwords, emails, credit cards, and tokens on any website. Keep your screen-shares and recordings private.
 
